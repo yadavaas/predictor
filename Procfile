@@ -1,1 +1,1 @@
-  web: sh setup.sh && streamlit run LR-App.py
+  web: sh setup.sh && streamlit run prosper-app.py
